@@ -1,3 +1,4 @@
+! ! ! This is a Copy of "README.md" ! ! !
 # Project: "Deadray Reborn"
 Long story short... This project is a Revive of the holy grail, Original Deadray, that used PocketMine-MP as the Original Server Program and is now updated to the latest version of Minecraft: Bedrock Edition (formerly known as Minecraft: Pocket Edition when Deadray was first created)
 
